@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/wallpaper-generator/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/wallpaper-generator/static/js/main.6a3f6ce9.chunk.js",
-    "main.js.map": "/wallpaper-generator/static/js/main.6a3f6ce9.chunk.js.map",
+    "main.js": "/wallpaper-generator/static/js/main.98aca35b.chunk.js",
+    "main.js.map": "/wallpaper-generator/static/js/main.98aca35b.chunk.js.map",
     "runtime-main.js": "/wallpaper-generator/static/js/runtime-main.ce444695.js",
     "runtime-main.js.map": "/wallpaper-generator/static/js/runtime-main.ce444695.js.map",
     "static/css/2.1f208231.chunk.css": "/wallpaper-generator/static/css/2.1f208231.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.1f208231.chunk.css",
     "static/js/2.e7cbd791.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.6a3f6ce9.chunk.js"
+    "static/js/main.98aca35b.chunk.js"
   ]
 }
